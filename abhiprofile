@@ -1,0 +1,110 @@
+<!DOCTYPE html>
+<html>
+<head>
+	
+	<style>
+		body {
+    			background-image: url(http://hd-wall-papers.com/images/wallpapers/background-image-for-website/background-image-for-website-15.jpg);
+    			background-repeat: no-repeat;
+    			background-position: center;
+   			 	background-size: 1520px 1000px;
+   			 	margin-right: 200px;
+			 }
+		
+		p.padding {
+    					padding-left: 4cm;
+					}
+		
+		table {
+    		border-collapse: collapse;
+    		width: 75%;
+			}
+
+ 		th,td {
+    		padding: 8px;
+    		text-align: left;
+    		border-bottom: 0px solid #ddd;
+			}
+		
+		img {
+    		border-radius: 50px;
+			}
+
+
+	</style>
+	
+
+	<title>
+		Abhishek Bakolia
+	</title>
+</head>
+<body >
+		
+		<h1 align="middle">
+		<font color="#B25113" face="magneto">Welcome to Abhishek's Webpage <br></font> 
+		<img src="C:\Users\user\Desktop\profile page\abhishek.jpg." align="middle" width="200" height="300" > <br>
+		</h1>
+		
+		<p class="padding">
+		<font color="#B25113" face="lucida calligraphy">Hey guys, this is Abhishek Bakolia, student of IIT Madras persuading Btech in Electrical Engineering</font></p>
+
+		<table align="center" >
+  			
+    		<tr>
+    			<th><font color="#B25113" face="arial black">About</font></th>
+    			<th><font color="#B25113" face="arial black">Education</font></th> 
+    			<th><font color="#B25113" face="arial black">Interests</font></th>
+    			
+  			</tr>
+
+    		<tr>
+    			<td><font color="#16B6AD" face="microsoft sans serif">born on 22 aug 1998</font></td>
+    			<td><font color="#1DF055" face="microsoft sans serif">Student at IIT Madras</font></td>
+    			<td><font color="#B25113" face="microsoft sans serif">Cricket</font></td>
+  			</tr>	
+  			
+  			<tr>
+    			<td><font color="#16B6AD" face="microsoft sans serif">lives in Jaipur</font></td>
+    			<td><font color="#1DF055" face="microsoft sans serif">Student at ALLEN</font> </td>
+    			<td><font color="#B25113" face="microsoft sans serif">Music</font></td> 
+    			
+  			</tr>
+  			<tr>
+    			<td><font color="#16B6AD" face="microsoft sans serif">Barahmputra Hostel</font></td>
+    			<td><font color="#1DF055" face="microsoft sans serif">Student at TIS,Jaipur</font></td>
+    			<td><font color="#B25113" face="microsoft sans serif">Movies,TV series</font></td> 
+    			
+  			</tr>
+
+  			<tr>
+    			<td><font color="#16B6AD" face="microsoft sans serif">love to explore</font></td>
+    			<td><font color="#1DF055" face="microsoft sans serif"></font></td>
+    			<td><font color="#B25113" face="microsoft sans serif">Web Development</font></td> 
+    			
+  			</tr>
+  			<tr>
+    			<td><font color="#16B6AD" face="microsoft sans serif">MSD, Raina nd Arijit Fan</font></td>
+    			<td><font color="#1DF055" face="microsoft sans serif"></font></td>
+    			<td><font color="#B25113" face="microsoft sans serif">Girls</font></td> 
+    			
+  			</tr>
+
+  			<tr>
+    			<td><font color="#16B6AD" face="microsoft sans serif"></font></td>
+    			<td><font color="#1DF055" face="microsoft sans serif"></font></td>
+    			<td><font color="#B25113" face="microsoft sans serif">Games</font></td> 
+    			
+  			</tr>
+		
+
+		</table>
+ 
+ 		<p class = "padding"><font face="lucida console" size="4">Social Media:</br></font></p>
+ 		<p class="padding"><font face="microsoft sans serif" size="3"> Facebook : <a target="_blank" href = "http://www.facebook.com/ab220897" >http://www.facebook.com/ab220897 </a></font></p>
+ 		<p class="padding"><font face="microsoft sans serif" size="3"> Instagram : <a target="_blank" href = "http://www.instagram.com/abhi_bakolia22" >http://www.instagram.com/abhi_bakolia22 </a></br></font></p>
+ 		<p class="padding"><font face="microsoft sans serif" size="3"> Email : abhishekbakolia22@gmail.com </br></font></p>
+
+ 		
+
+</body>
+</html>
